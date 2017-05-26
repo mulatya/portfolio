@@ -1,0 +1,39 @@
+.manuel{
+  color: slategray;
+}
+body{
+  background-image: url("../b.jpg");
+  background-size: 1500px 1220px;
+  background-repeat: no-repeat;
+}
+.manuel{
+font-size: 70px;
+font-style: oblique;}
+h1{text-align: center;
+}
+.about{color: slategray;}
+.img{max-width: 80px;
+max-height: 80px}
+
+nav ul{
+  list-style: none;
+  background-color: slategray
+}
+
+nav ul li{
+  padding: 40px 30px;
+}
+
+nav ul li:hover{
+  color: gray;
+}
+.contact{color: white}
+
+ img{max-height: 200px;
+ max-width: 200px}
+
+#image{
+  width: 4000px;
+  height: 80px;
+  text-align: center;
+}
